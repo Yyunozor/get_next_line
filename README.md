@@ -18,7 +18,6 @@ get_next_line_project/
     └── test_bonus.c         ──> Test cases specific to bonus part
 
 ```
-
 ---
 
 ## **Roadmap Phases**
