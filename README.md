@@ -6,7 +6,6 @@
 
 ```
 get_next_line_project/
-├── Makefile                 ──> Builds project, includes bonus rules
 ├── get_next_line.h          ──> Header for prototypes, includes, and macros
 ├── get_next_line.c          ──> Main file handling line retrieval logic
 ├── get_next_line_utils.c    ──> Utility functions for line processing
