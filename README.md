@@ -119,3 +119,4 @@ get_next_line_project/
 This roadmap covers each element of `get_next_line` with targeted time estimates and clear milestones. Stick to each phase, focus on modular code, and ensure rigorous testing, especially around edge cases and file descriptor management for bonus points. This should yield a well-tested and Norm-compliant solution for the project.
 
 ---
+
