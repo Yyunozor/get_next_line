@@ -6,96 +6,102 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/10 18:27:37 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/11 22:59:52 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include <unistd.h>
 
-static char	*read_and_join(int fd, char *buffer)
-{
-	char	*read_buf;
-	int		bytes_read;
-
-	if (BUFFER_SIZE <= 0 || fd < 0)
-		return (NULL);
-	read_buf = malloc(BUFFER_SIZE + 1);
-	if (!read_buf)
-		return (NULL);
-	bytes_read = 1;
-	while (bytes_read > 0 && (!buffer || !ft_strchr(buffer, '\n')))
-	{
-		bytes_read = read(fd, read_buf, BUFFER_SIZE);
-		if (bytes_read <= 0)
-			break ;
-		read_buf[bytes_read] = '\0';
-		if (!ft_strjoin_free(&buffer, read_buf))
-		{
-			free(read_buf);
-			free(buffer); // Free buffer to prevent memory leak
-			return (NULL);
-		}
-	}
-	free(read_buf);
-	if (bytes_read < 0)
-	{
-		free(buffer); // Free buffer in case of read error
-		return (NULL);
-	}
-	return (buffer);
-}
-
-static char	*extract_line(char **buffer)
+static char	*get_line_from_buffer(char *buffer)
 {
 	char	*line;
-	char	*newline_pos;
-	char	*temp;
+	char	*ptr;
+	char	*buf_ptr;
 	size_t	len;
 
-	if (!*buffer || !**buffer)
-	{
-		free(*buffer);
-		*buffer = NULL;
+	if (!buffer || !*buffer)
 		return (NULL);
-	}
-	newline_pos = ft_strchr(*buffer, '\n');
-	len = newline_pos ? (size_t)(newline_pos - *buffer + 1) : ft_strlen(*buffer);
+	buf_ptr = buffer;
+	while (*buf_ptr && *buf_ptr != '\n')
+		buf_ptr++;
+	len = buf_ptr - buffer;
+	if (*buf_ptr == '\n')
+		len++;
 	line = malloc(len + 1);
 	if (!line)
+		return (NULL);
+	ptr = line;
+	while (buffer != buf_ptr)
+		*ptr++ = *buffer++;
+	if (*buffer == '\n')
+		*ptr++ = '\n';
+	*ptr = '\0';
+	return (line);
+}
+
+static char	*create_new_buffer(char *buffer, char *newline_pos)
+{
+	char	*new_buf;
+	char	*ptr;
+
+	new_buf = malloc(ft_strlen(newline_pos));
+	if (!new_buf)
 	{
-		free(*buffer);
-		*buffer = NULL;
+		free(buffer);
 		return (NULL);
 	}
-	ft_strlcpy(line, *buffer, len + 1);
-	if (newline_pos)
+	ptr = new_buf;
+	newline_pos++;
+	while (*newline_pos)
+		*ptr++ = *newline_pos++;
+	*ptr = '\0';
+	free(buffer);
+	return (new_buf);
+}
+
+static char	*update_buffer(char *buffer)
+{
+	char	*ptr;
+
+	if (!buffer)
+		return (NULL);
+	ptr = buffer;
+	while (*ptr && *ptr != '\n')
+		ptr++;
+	if (!*ptr)
 	{
-		temp = ft_strdup(newline_pos + 1);
-		if (!temp)
+		free(buffer);
+		return (NULL);
+	}
+	return (create_new_buffer(buffer, ptr));
+}
+
+static char	*read_buffer(int fd, char *buffer)
+{
+	char	*temp;
+	int		read_bytes;
+
+	temp = malloc(BUFFER_SIZE + 1);
+	if (!temp)
+	{
+		free(buffer);
+		return (NULL);
+	}
+	read_bytes = 1;
+	while (!ft_strchr(buffer, '\n') && read_bytes > 0)
+	{
+		read_bytes = read(fd, temp, BUFFER_SIZE);
+		if (read_bytes == -1)
 		{
-			free(line);
-			free(*buffer);
-			*buffer = NULL;
+			free(buffer);
+			free(temp);
 			return (NULL);
 		}
-		free(*buffer);
-		if (*temp == '\0')
-		{
-			free(temp);
-			*buffer = NULL;
-		}
-		else
-		{
-			*buffer = temp;
-		}
+		temp[read_bytes] = '\0';
+		buffer = ft_strjoin(buffer, temp);
 	}
-	else
-	{
-		free(*buffer);
-		*buffer = NULL;
-	}
-	return (line);
+	free(temp);
+	return (buffer);
 }
 
 char	*get_next_line(int fd)
@@ -105,9 +111,10 @@ char	*get_next_line(int fd)
 
 	if (fd < 0 || BUFFER_SIZE <= 0)
 		return (NULL);
-	buffer = read_and_join(fd, buffer);
+	buffer = read_buffer(fd, buffer);
 	if (!buffer)
 		return (NULL);
-	line = extract_line(&buffer);
+	line = get_line_from_buffer(buffer);
+	buffer = update_buffer(buffer);
 	return (line);
 }
