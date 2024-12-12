@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/11 22:59:52 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/12 09:13:36 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,10 +46,7 @@ static char	*create_new_buffer(char *buffer, char *newline_pos)
 
 	new_buf = malloc(ft_strlen(newline_pos));
 	if (!new_buf)
-	{
-		free(buffer);
-		return (NULL);
-	}
+		return (free_null(buffer));
 	ptr = new_buf;
 	newline_pos++;
 	while (*newline_pos)
@@ -69,10 +66,7 @@ static char	*update_buffer(char *buffer)
 	while (*ptr && *ptr != '\n')
 		ptr++;
 	if (!*ptr)
-	{
-		free(buffer);
-		return (NULL);
-	}
+		return (free_null(buffer));
 	return (create_new_buffer(buffer, ptr));
 }
 
@@ -83,19 +77,15 @@ static char	*read_buffer(int fd, char *buffer)
 
 	temp = malloc(BUFFER_SIZE + 1);
 	if (!temp)
-	{
-		free(buffer);
-		return (NULL);
-	}
+		return (free_null(buffer));
 	read_bytes = 1;
 	while (!ft_strchr(buffer, '\n') && read_bytes > 0)
 	{
 		read_bytes = read(fd, temp, BUFFER_SIZE);
 		if (read_bytes == -1)
 		{
-			free(buffer);
 			free(temp);
-			return (NULL);
+			return (free_null(buffer));
 		}
 		temp[read_bytes] = '\0';
 		buffer = ft_strjoin(buffer, temp);

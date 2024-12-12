@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:49 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/11 22:58:59 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/12 09:13:20 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,4 +61,11 @@ char	*ft_strjoin(char *s1, const char *s2)
 	if (s1)
 		free(s1);
 	return (str);
+}
+
+char	*free_null(void *ptr)
+{
+	if (ptr)
+		free(ptr);
+	return (NULL);
 }
