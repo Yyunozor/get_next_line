@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:49 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/12 09:13:20 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/15 19:59:55 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -69,3 +69,53 @@ char	*free_null(void *ptr)
 		free(ptr);
 	return (NULL);
 }
+
+/*
+#include <stdio.h>
+#include <strings.h>
+
+int main(void)
+{
+	char *str1 = "Hello, ";
+	char *str2 = "World!";
+	char *joined_str;
+	char *found_char;
+	size_t len;
+
+	// Test ft_strlen
+	len = ft_strlen(str1);
+	printf("Length of '%s': %zu\n", str1, len);
+
+	// Test ft_strchr
+	found_char = ft_strchr(str1, 'e');
+	if (found_char)
+		printf("Character 'e' found in '%s' at position: %ld\n", str1, found_char - str1);
+	else
+		printf("Character 'e' not found in '%s'\n", str1);
+
+	// Test ft_strjoin
+	joined_str = ft_strjoin(strdup(str1), str2);
+	if (joined_str)
+	{
+		printf("Joined string: '%s'\n", joined_str);
+		free(joined_str);
+	}
+	else
+	{
+		printf("Failed to join strings\n");
+	}
+
+	// Test free_null
+	char *ptr = malloc(10);
+	if (ptr)
+	{
+		ptr = free_null(ptr);
+		if (!ptr)
+			printf("Pointer successfully freed and set to NULL\n");
+		else
+			printf("Pointer not set to NULL\n");
+	}
+
+	return 0;
+}
+*/

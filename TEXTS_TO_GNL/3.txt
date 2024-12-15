@@ -1,0 +1,28 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+This is a very long line without any newline characters that should test the buffer handling capabilities of your get_next_line function and make sure it can handle long strings properly without breaking the memory or causing any buffer overflows............................................................................................................................................................................................................................................................end of long line
+Short line
+		  Spaces at start
+Spaces at end          
+Mixed		Tabs	and   Spaces		Test
+
+Empty lines below:
+
+
+1
+12
+123
+1234
+12345
+
+~!@#$%^&*()_+-=[]{}|;:'",./<>?
+
+Here's a line with a single character:
+a
+
+Chinese characters: 你好世界
+Korean characters: 안녕하세요
+Japanese characters: こんにちは
+
+No newline at the end of this very long line that keeps going and going and might cause buffer issues if not handled properly... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... end without newline```
