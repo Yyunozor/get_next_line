@@ -24,3 +24,6 @@ a.out
 
 # Debug files
 *.dSYM/
+
+# Texts tests
+TEXT_TO_GNL/*

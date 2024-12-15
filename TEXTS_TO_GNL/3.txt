@@ -1,28 +1,82 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+This is where the real battle begins...
+Hold on to your pointers, brave debugger!
 
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
 
-This is a very long line without any newline characters that should test the buffer handling capabilities of your get_next_line function and make sure it can handle long strings properly without breaking the memory or causing any buffer overflows............................................................................................................................................................................................................................................................end of long line
-Short line
-		  Spaces at start
-Spaces at end          
-Mixed		Tabs	and   Spaces		Test
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
 
-Empty lines below:
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
 
+\0 <- Not the end yet, keep going!
 
-1
-12
-123
-1234
-12345
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
 
-~!@#$%^&*()_+-=[]{}|;:'",./<>?
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
 
-Here's a line with a single character:
-a
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
 
-Chinese characters: 你好世界
-Korean characters: 안녕하세요
-Japanese characters: こんにちは
+EOF is coming...
+But when???
 
-No newline at the end of this very long line that keeps going and going and might cause buffer issues if not handled properly... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... end without newline```
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]

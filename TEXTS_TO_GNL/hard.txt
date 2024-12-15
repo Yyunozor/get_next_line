@@ -1,0 +1,2350 @@
+This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]This is where the real battle begins...
+Hold on to your pointers, brave debugger!
+
+Lorem ipsum? NO! We need REAL challenges!
+\n\n\n\n <- Did you handle these empty lines correctly?
+
+Here's a ridiculously long line that might make your buffer cry........................................................................................................................................................................................................................................................................................................................
+
+One line
+Two line
+Red line
+Blue line
+Wait... is this Dr. Seuss?
+
+\0 <- Not the end yet, keep going!
+
+Testing with some fun characters: ~!@#$%^&*()_+
+	Spaces at start
+Spaces at end   
+		Tabs are fun		
+Mix it up!    		  	 	
+
+-42 is the answer (but in a negative way)
+NULL is not the same as (null) is not the same as \0
+
+If you're reading this...
+You're doing great!
+Keep
+Going
+Almost
+There
+...
+Or
+Maybe
+Not
+
+EOF is coming...
+But when???
+
+¯\_(ツ)_/¯
+
+The End.
+
+...Or is it?
+
+🦊 <- Can you handle UTF-8?
+★★★ What about these stars?
+∞∞∞ Infinity test ∞∞∞
+
+10000 chars incoming:
+[Insert 9999 'A's here]Z
+
+Time to get crazy:
+								
+^^ Nothing but tabs and spaces above ^^
+
+./\\/./\\/./\\/ - Regex nightmare
+
+Here's a null byte: [insert \0 here] followed by more text
+
+Memory leak test:
+[Allocate]
+[Allocate more]
+[Keep allocating...]
+[Free?]
+
+01234567890123456789
+The above line is exactly 20 chars
+
+Binary: 01010101
+Hex: 0xDEADBEEF
+Oct: 0777
+
+琉球 <- Some UTF-8 kanji
+한글 <- Korean
+العربية <- Arabic (Right to Left!)
+
+The REAL End.
+
+...unless?
+
+[EOF]
