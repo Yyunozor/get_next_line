@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/15 20:04:40 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/15 20:29:30 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -107,66 +107,4 @@ char	*get_next_line(int fd)
 	line = get_line_from_buffer(buffer);
 	buffer = update_buffer(buffer);
 	return (line);
-}
-
-#include <stdio.h>
-#include <fcntl.h>
-#include <stdlib.h>
-#include <time.h>
-
-int	main(int argc, char **argv)
-{
-	int		fd;
-	char	*line;
-	int		line_count = 0;
-	int		total_chars = 0;
-	clock_t	start, end;
-	double	cpu_time_used;
-
-	printf("\n=== GET_NEXT_LINE BATTLE TESTER ===\n\n");
-
-	if (argc != 2)
-	{
-		fprintf(stderr, "❌ Usage: %s <filename>\n", argv[0]);
-		return (EXIT_FAILURE);
-	}
-
-	printf("📂 Testing file: %s\n", argv[1]);
-	printf("🔄 Buffer size: %d\n\n", BUFFER_SIZE);
-
-	start = clock();
-	fd = open(argv[1], O_RDONLY);
-	if (fd == -1)
-	{
-		perror("❌ Error opening file");
-		return (EXIT_FAILURE);
-	}
-
-	printf("📖 Reading file contents:\n");
-	printf("------------------------\n");
-	while ((line = get_next_line(fd)) != NULL)
-	{
-		line_count++;
-		total_chars += ft_strlen(line);
-		printf("📝 Line %d: %s", line_count, line);
-		free(line);
-	}
-	printf("------------------------\n\n");
-
-	end = clock();
-	cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
-
-	printf("📊 Test Results:\n");
-	printf("✓ Lines read: %d\n", line_count);
-	printf("✓ Total characters: %d\n", total_chars);
-	printf("⏱  Time taken: %.4f seconds\n\n", cpu_time_used);
-
-	if (close(fd) == -1)
-	{
-		perror("❌ Error closing file");
-		return (EXIT_FAILURE);
-	}
-
-	printf("✅ Test completed successfully!\n\n");
-	return (EXIT_SUCCESS);
 }
