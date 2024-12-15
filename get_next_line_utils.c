@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:49 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/15 19:59:55 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/15 20:55:08 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -89,7 +89,7 @@ int main(void)
 	// Test ft_strchr
 	found_char = ft_strchr(str1, 'e');
 	if (found_char)
-		printf("Character 'e' found in '%s' at position: %ld\n", str1, found_char - str1);
+		printf("Char 'e' found in '%s' at pos: %ld\n", str1, found_char - str1);
 	else
 		printf("Character 'e' not found in '%s'\n", str1);
 
