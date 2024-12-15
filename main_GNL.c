@@ -1,24 +1,8 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   get_main.c                                         :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/15 20:30:29 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/15 20:32:55 by anpayot          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <stdio.h>
 #include <fcntl.h>
 #include <stdlib.h>
 #include <time.h>
 #include "get_next_line.h"
-
-#ifndef BUFFER_SIZE
-# define BUFFER_SIZE 42
-#endif
 
 void	print_results(int line_count, int total_chars, double cpu_time_used)
 {
@@ -39,13 +23,13 @@ int	main(int argc, char **argv)
 	double	cpu_time_used;
 
 	printf("\n=== GET_NEXT_LINE BATTLE TESTER ===\n\n");
-	if (argc != 2)
+	if (argc != 3)
 	{
-		fprintf(stderr, "❌ Usage: %s <filename>\n", argv[0]);
+		fprintf(stderr, "❌ Usage: %s <filename> <buffer_size>\n", argv[0]);
 		return (EXIT_FAILURE);
 	}
 	printf("📂 Testing file: %s\n", argv[1]);
-	printf("🔄 Buffer size: %d\n\n", BUFFER_SIZE);
+	printf("🔄 Buffer size: %s\n\n", argv[2]);
 	start = clock();
 	fd = open(argv[1], O_RDONLY);
 	if (fd == -1)
