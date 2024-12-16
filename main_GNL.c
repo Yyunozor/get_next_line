@@ -23,13 +23,13 @@ int	main(int argc, char **argv)
 	double	cpu_time_used;
 
 	printf("\n=== GET_NEXT_LINE BATTLE TESTER ===\n\n");
-	if (argc != 3)
+	if (argc != 2)
 	{
-		fprintf(stderr, "❌ Usage: %s <filename> <buffer_size>\n", argv[0]);
+		fprintf(stderr, "❌ Usage: %s <filename>\n", argv[0]);
 		return (EXIT_FAILURE);
 	}
 	printf("📂 Testing file: %s\n", argv[1]);
-	printf("🔄 Buffer size: %s\n\n", argv[2]);
+	printf("🔄 Buffer size: %d\n\n", BUFFER_SIZE);
 	start = clock();
 	fd = open(argv[1], O_RDONLY);
 	if (fd == -1)
