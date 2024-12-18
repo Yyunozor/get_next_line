@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/18 11:42:10 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/18 12:42:05 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,7 +44,7 @@ static char	*create_new_buffer(char *buffer, char *newline_pos)
 	char	*new_buffer;
 	char	*ptr;
 
-	new_buf = malloc(ft_strlen(newline_pos));
+	new_buffer = malloc(ft_strlen(newline_pos));
 	if (!new_buffer)
 		return (free_null(buffer));
 	ptr = new_buffer;
