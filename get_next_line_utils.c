@@ -6,12 +6,18 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:49 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/15 20:55:08 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/19 12:33:06 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
 
+/**
+ * @brief Calculate length of null-terminated string
+ * 
+ * @param s String to measure
+ * @return size_t Number of characters before null terminator
+ */
 size_t	ft_strlen(const char *s)
 {
 	const char	*ptr;
@@ -24,6 +30,13 @@ size_t	ft_strlen(const char *s)
 	return (ptr - s);
 }
 
+/**
+ * @brief Locate first occurrence of character in string
+ * 
+ * @param s String to search
+ * @param c Character to find (converted to unsigned char)
+ * @return char* Pointer to first occurrence, or NULL if not found
+ */
 char	*ft_strchr(const char *s, int c)
 {
 	if (!s)
@@ -39,6 +52,14 @@ char	*ft_strchr(const char *s, int c)
 	return (NULL);
 }
 
+/**
+ * @brief Concatenate two strings into new allocation
+ * 
+ * @param s1 First string (will be freed)
+ * @param s2 Second string
+ * @return char* New allocated string with s1+s2, or NULL if allocation fails
+ * @note Frees s1 before returning
+ */
 char	*ft_strjoin(char *s1, const char *s2)
 {
 	char	*str;
@@ -63,6 +84,13 @@ char	*ft_strjoin(char *s1, const char *s2)
 	return (str);
 }
 
+/*m*
+ * @brief Free pointer and return NULL
+ * 
+ * @param ptr Pointer to free
+ * @return char* Always returns NULL
+ * @note Safe to call with NULL pointer
+ */
 char	*free_null(void *ptr)
 {
 	if (ptr)

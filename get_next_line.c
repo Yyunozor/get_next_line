@@ -6,12 +6,20 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/18 12:42:05 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/19 12:30:37 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
 
+/**
+ * @brief Extracts the next line from the buffer up to newline or end
+ * 
+ * @param buffer The string buffer to extract the line from
+ * @return char* Newly allocated string containing the extracted line, 
+ *         or NULL if buffer is empty/allocation fails
+ * @note The returned line includes the newline character if present
+ */
 static char	*get_line_from_buffer(char *buffer)
 {
 	char	*line;
@@ -39,6 +47,15 @@ static char	*get_line_from_buffer(char *buffer)
 	return (line);
 }
 
+/**
+ * @brief Creates a new buffer starting after the first newline character
+ * 
+ * @param buffer Original buffer to be freed
+ * @param newline_pos Pointer to newline character in original buffer
+ * @return char* New allocated buffer containing remaining text,
+ *         or NULL if allocation fails
+ * @note Frees the original buffer before returning
+ */
 static char	*create_new_buffer(char *buffer, char *newline_pos)
 {
 	char	*new_buffer;
@@ -56,6 +73,14 @@ static char	*create_new_buffer(char *buffer, char *newline_pos)
 	return (new_buffer);
 }
 
+/**
+ * @brief Updates the static buffer by removing the extracted line
+ * 
+ * @param buffer Current buffer to update
+ * @return char* New buffer with remaining content after newline,
+ *         or NULL if no more content/error
+ * @note Frees original buffer if no content remains
+ */
 static char	*update_buffer(char *buffer)
 {
 	char	*ptr;
@@ -70,6 +95,15 @@ static char	*update_buffer(char *buffer)
 	return (create_new_buffer(buffer, ptr));
 }
 
+/**
+ * @brief Reads from file descriptor and appends to buffer until newline or EOF
+ * 
+ * @param fd File descriptor to read from
+ * @param buffer Existing buffer to append to
+ * @return char* Updated buffer with new content,
+ *         or NULL if read error/allocation fails
+ * @note Allocates BUFFER_SIZE + 1 bytes for temporary storage
+ */
 static char	*read_buffer(int fd, char *buffer)
 {
 	char	*temp;
@@ -94,6 +128,21 @@ static char	*read_buffer(int fd, char *buffer)
 	return (buffer);
 }
 
+/**
+ * @brief Gets the next line from a file descriptor
+ * 
+ * @param fd File descriptor to read from
+ * @return char* Next line from file including newline if present,
+ *         or NULL on EOF/error
+ * @note Uses static buffer to maintain state between calls
+ * @example
+ * char *line;
+ * while ((line = get_next_line(fd)) != NULL)
+ * {
+ *     printf("%s", line);
+ *     free(line);
+ * }
+ */
 char	*get_next_line(int fd)
 {
 	static char	*buffer;
