@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:49 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/19 12:33:06 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/20 13:50:08 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -84,7 +84,7 @@ char	*ft_strjoin(char *s1, const char *s2)
 	return (str);
 }
 
-/*m*
+/**
  * @brief Free pointer and return NULL
  * 
  * @param ptr Pointer to free
