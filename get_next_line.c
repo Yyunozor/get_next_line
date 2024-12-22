@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/19 12:30:37 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/20 14:16:30 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -101,7 +101,7 @@ static char	*update_buffer(char *buffer)
  * @param fd File descriptor to read from
  * @param buffer Existing buffer to append to
  * @return char* Updated buffer with new content,
- *         or NULL if read error/allocation fails
+ *         or NULL if read error/allocation fail=s
  * @note Allocates BUFFER_SIZE + 1 bytes for temporary storage
  */
 static char	*read_buffer(int fd, char *buffer)
