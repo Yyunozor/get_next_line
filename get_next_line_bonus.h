@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:44:18 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/12 09:25:14 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/30 17:05:08 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,13 +15,14 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include <limits.h>
 
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 32
 # endif
 
-# ifndef MAX_FD
-#  define MAX_FD 1024
+# ifndef MAX_FILES
+#  define MAX_FILES OPEN_MAX
 # endif
 
 char	*get_next_line(int fd);
