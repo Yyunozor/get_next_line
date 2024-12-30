@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/20 14:16:30 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/30 16:05:50 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,8 +60,12 @@ static char	*create_new_buffer(char *buffer, char *newline_pos)
 {
 	char	*new_buffer;
 	char	*ptr;
+	size_t	len;
 
-	new_buffer = malloc(ft_strlen(newline_pos));
+	if (!newline_pos || !*(newline_pos + 1))
+		return (free_null(buffer));
+	len = ft_strlen(newline_pos + 1);
+	new_buffer = malloc(len + 1);
 	if (!new_buffer)
 		return (free_null(buffer));
 	ptr = new_buffer;
@@ -123,6 +127,11 @@ static char	*read_buffer(int fd, char *buffer)
 		}
 		temp[read_bytes] = '\0';
 		buffer = ft_strjoin(buffer, temp);
+		if (!buffer)
+		{
+			free(temp);
+			return (NULL);
+		}
 	}
 	free(temp);
 	return (buffer);
@@ -154,6 +163,12 @@ char	*get_next_line(int fd)
 	if (!buffer)
 		return (NULL);
 	line = get_line_from_buffer(buffer);
+	if (!line)
+	{
+		free_null(buffer);
+		buffer = NULL;
+		return (NULL);
+	}
 	buffer = update_buffer(buffer);
 	return (line);
 }

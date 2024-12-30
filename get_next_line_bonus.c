@@ -6,7 +6,7 @@
 /*   By: anpayot <anpayot@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 03:46:34 by anpayot           #+#    #+#             */
-/*   Updated: 2024/12/12 09:22:36 by anpayot          ###   ########.fr       */
+/*   Updated: 2024/12/30 15:29:54 by anpayot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,23 +41,23 @@ static char	*get_line_from_buffer(char *buffer)
 
 static char	*create_new_buffer(char *buffer, char *newline_pos)
 {
-	char	*new_buf;
+	char	*new_buffer;
 	char	*ptr;
 	size_t	len;
 
 	if (!newline_pos || !*(newline_pos + 1))
 		return (free_null(buffer));
 	len = ft_strlen(newline_pos + 1);
-	new_buf = malloc(len + 1);
-	if (!new_buf)
+	new_buffer = malloc(len + 1);
+	if (!new_buffer)
 		return (free_null(buffer));
-	ptr = new_buf;
+	ptr = new_buffer;
 	newline_pos++;
 	while (*newline_pos)
 		*ptr++ = *newline_pos++;
 	*ptr = '\0';
 	free(buffer);
-	return (new_buf);
+	return (new_buffer);
 }
 
 static char	*update_buffer(char *buffer)
@@ -93,6 +93,11 @@ static char	*read_buffer(int fd, char *buffer)
 		}
 		temp[read_bytes] = '\0';
 		buffer = ft_strjoin(buffer, temp);
+		if (!buffer)
+		{
+			free(temp);
+			return (NULL);
+		}
 	}
 	free(temp);
 	return (buffer);
@@ -109,6 +114,12 @@ char	*get_next_line(int fd)
 	if (!buffer[fd])
 		return (NULL);
 	line = get_line_from_buffer(buffer[fd]);
+	if (!line)
+	{
+		free_null(buffer[fd]);
+		buffer[fd] = NULL;
+		return (NULL);
+	}
 	buffer[fd] = update_buffer(buffer[fd]);
 	return (line);
 }
